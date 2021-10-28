@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion_projects/Lettcode_cpp/twoSum/TwoSum.cpp
+stdio.h
+-
+unordered_map
+-
+vector
+-
+

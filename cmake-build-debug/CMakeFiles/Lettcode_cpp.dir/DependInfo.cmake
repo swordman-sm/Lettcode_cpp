@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/clion_projects/Lettcode_cpp/main.cpp" "D:/clion_projects/Lettcode_cpp/cmake-build-debug/CMakeFiles/Lettcode_cpp.dir/main.cpp.obj"
-  "D:/clion_projects/Lettcode_cpp/twoSum/TwoS.cpp" "D:/clion_projects/Lettcode_cpp/cmake-build-debug/CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj"
-  "D:/clion_projects/Lettcode_cpp/twoSum/TwoSum.cpp" "D:/clion_projects/Lettcode_cpp/cmake-build-debug/CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj"
+  "D:/clion_projects/Lettcode_cpp/t1TwoSum/TwoSum.cpp" "D:/clion_projects/Lettcode_cpp/cmake-build-debug/CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj"
+  "D:/clion_projects/Lettcode_cpp/t2AddTwoNums/AddTwoNums.cpp" "D:/clion_projects/Lettcode_cpp/cmake-build-debug/CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

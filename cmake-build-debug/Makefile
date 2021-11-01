@@ -152,53 +152,53 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-twoSum/TwoS.obj: twoSum/TwoS.cpp.obj
-.PHONY : twoSum/TwoS.obj
+t1TwoSum/TwoSum.obj: t1TwoSum/TwoSum.cpp.obj
+.PHONY : t1TwoSum/TwoSum.obj
 
 # target to build an object file
-twoSum/TwoS.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj
-.PHONY : twoSum/TwoS.cpp.obj
+t1TwoSum/TwoSum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj
+.PHONY : t1TwoSum/TwoSum.cpp.obj
 
-twoSum/TwoS.i: twoSum/TwoS.cpp.i
-.PHONY : twoSum/TwoS.i
+t1TwoSum/TwoSum.i: t1TwoSum/TwoSum.cpp.i
+.PHONY : t1TwoSum/TwoSum.i
 
 # target to preprocess a source file
-twoSum/TwoS.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.i
-.PHONY : twoSum/TwoS.cpp.i
+t1TwoSum/TwoSum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.i
+.PHONY : t1TwoSum/TwoSum.cpp.i
 
-twoSum/TwoS.s: twoSum/TwoS.cpp.s
-.PHONY : twoSum/TwoS.s
+t1TwoSum/TwoSum.s: t1TwoSum/TwoSum.cpp.s
+.PHONY : t1TwoSum/TwoSum.s
 
 # target to generate assembly for a file
-twoSum/TwoS.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.s
-.PHONY : twoSum/TwoS.cpp.s
+t1TwoSum/TwoSum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.s
+.PHONY : t1TwoSum/TwoSum.cpp.s
 
-twoSum/TwoSum.obj: twoSum/TwoSum.cpp.obj
-.PHONY : twoSum/TwoSum.obj
+t2AddTwoNums/AddTwoNums.obj: t2AddTwoNums/AddTwoNums.cpp.obj
+.PHONY : t2AddTwoNums/AddTwoNums.obj
 
 # target to build an object file
-twoSum/TwoSum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj
-.PHONY : twoSum/TwoSum.cpp.obj
+t2AddTwoNums/AddTwoNums.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj
+.PHONY : t2AddTwoNums/AddTwoNums.cpp.obj
 
-twoSum/TwoSum.i: twoSum/TwoSum.cpp.i
-.PHONY : twoSum/TwoSum.i
+t2AddTwoNums/AddTwoNums.i: t2AddTwoNums/AddTwoNums.cpp.i
+.PHONY : t2AddTwoNums/AddTwoNums.i
 
 # target to preprocess a source file
-twoSum/TwoSum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.i
-.PHONY : twoSum/TwoSum.cpp.i
+t2AddTwoNums/AddTwoNums.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.i
+.PHONY : t2AddTwoNums/AddTwoNums.cpp.i
 
-twoSum/TwoSum.s: twoSum/TwoSum.cpp.s
-.PHONY : twoSum/TwoSum.s
+t2AddTwoNums/AddTwoNums.s: t2AddTwoNums/AddTwoNums.cpp.s
+.PHONY : t2AddTwoNums/AddTwoNums.s
 
 # target to generate assembly for a file
-twoSum/TwoSum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.s
-.PHONY : twoSum/TwoSum.cpp.s
+t2AddTwoNums/AddTwoNums.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.s
+.PHONY : t2AddTwoNums/AddTwoNums.cpp.s
 
 # Help Target
 help:
@@ -212,12 +212,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... twoSum/TwoS.obj
-	@echo ... twoSum/TwoS.i
-	@echo ... twoSum/TwoS.s
-	@echo ... twoSum/TwoSum.obj
-	@echo ... twoSum/TwoSum.i
-	@echo ... twoSum/TwoSum.s
+	@echo ... t1TwoSum/TwoSum.obj
+	@echo ... t1TwoSum/TwoSum.i
+	@echo ... t1TwoSum/TwoSum.s
+	@echo ... t2AddTwoNums/AddTwoNums.obj
+	@echo ... t2AddTwoNums/AddTwoNums.i
+	@echo ... t2AddTwoNums/AddTwoNums.s
 .PHONY : help
 
 

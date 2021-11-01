@@ -78,44 +78,44 @@ CMakeFiles/Lettcode_cpp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lettcode_cpp.dir/main.cpp.s"
 	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion_projects\Lettcode_cpp\main.cpp -o CMakeFiles\Lettcode_cpp.dir\main.cpp.s
 
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj: CMakeFiles/Lettcode_cpp.dir/flags.make
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj: ../twoSum/TwoSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion_projects\Lettcode_cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj"
-	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lettcode_cpp.dir\twoSum\TwoSum.cpp.obj -c D:\clion_projects\Lettcode_cpp\twoSum\TwoSum.cpp
+CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj: CMakeFiles/Lettcode_cpp.dir/flags.make
+CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj: ../t1TwoSum/TwoSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion_projects\Lettcode_cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj"
+	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lettcode_cpp.dir\t1TwoSum\TwoSum.cpp.obj -c D:\clion_projects\Lettcode_cpp\t1TwoSum\TwoSum.cpp
 
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.i"
-	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion_projects\Lettcode_cpp\twoSum\TwoSum.cpp > CMakeFiles\Lettcode_cpp.dir\twoSum\TwoSum.cpp.i
+CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.i"
+	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion_projects\Lettcode_cpp\t1TwoSum\TwoSum.cpp > CMakeFiles\Lettcode_cpp.dir\t1TwoSum\TwoSum.cpp.i
 
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.s"
-	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion_projects\Lettcode_cpp\twoSum\TwoSum.cpp -o CMakeFiles\Lettcode_cpp.dir\twoSum\TwoSum.cpp.s
+CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.s"
+	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion_projects\Lettcode_cpp\t1TwoSum\TwoSum.cpp -o CMakeFiles\Lettcode_cpp.dir\t1TwoSum\TwoSum.cpp.s
 
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj: CMakeFiles/Lettcode_cpp.dir/flags.make
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj: ../twoSum/TwoS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion_projects\Lettcode_cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj"
-	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lettcode_cpp.dir\twoSum\TwoS.cpp.obj -c D:\clion_projects\Lettcode_cpp\twoSum\TwoS.cpp
+CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj: CMakeFiles/Lettcode_cpp.dir/flags.make
+CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj: ../t2AddTwoNums/AddTwoNums.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion_projects\Lettcode_cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj"
+	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lettcode_cpp.dir\t2AddTwoNums\AddTwoNums.cpp.obj -c D:\clion_projects\Lettcode_cpp\t2AddTwoNums\AddTwoNums.cpp
 
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.i"
-	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion_projects\Lettcode_cpp\twoSum\TwoS.cpp > CMakeFiles\Lettcode_cpp.dir\twoSum\TwoS.cpp.i
+CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.i"
+	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion_projects\Lettcode_cpp\t2AddTwoNums\AddTwoNums.cpp > CMakeFiles\Lettcode_cpp.dir\t2AddTwoNums\AddTwoNums.cpp.i
 
-CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.s"
-	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion_projects\Lettcode_cpp\twoSum\TwoS.cpp -o CMakeFiles\Lettcode_cpp.dir\twoSum\TwoS.cpp.s
+CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.s"
+	"D:\Program Files\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion_projects\Lettcode_cpp\t2AddTwoNums\AddTwoNums.cpp -o CMakeFiles\Lettcode_cpp.dir\t2AddTwoNums\AddTwoNums.cpp.s
 
 # Object files for target Lettcode_cpp
 Lettcode_cpp_OBJECTS = \
 "CMakeFiles/Lettcode_cpp.dir/main.cpp.obj" \
-"CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj" \
-"CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj"
+"CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj" \
+"CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj"
 
 # External object files for target Lettcode_cpp
 Lettcode_cpp_EXTERNAL_OBJECTS =
 
 Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/main.cpp.obj
-Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/twoSum/TwoSum.cpp.obj
-Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/twoSum/TwoS.cpp.obj
+Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/t1TwoSum/TwoSum.cpp.obj
+Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.obj
 Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/build.make
 Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/linklibs.rsp
 Lettcode_cpp.exe: CMakeFiles/Lettcode_cpp.dir/objects1.rsp

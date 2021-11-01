@@ -83,13 +83,10 @@
 		<Unit filename="D:/clion_projects/Lettcode_cpp/main.cpp">
 			<Option target="Lettcode_cpp"/>
 		</Unit>
-		<Unit filename="D:/clion_projects/Lettcode_cpp/twoSum/TwoS.cpp">
+		<Unit filename="D:/clion_projects/Lettcode_cpp/t1TwoSum/TwoSum.cpp">
 			<Option target="Lettcode_cpp"/>
 		</Unit>
-		<Unit filename="D:/clion_projects/Lettcode_cpp/twoSum/TwoS.h">
-			<Option target="Lettcode_cpp"/>
-		</Unit>
-		<Unit filename="D:/clion_projects/Lettcode_cpp/twoSum/TwoSum.cpp">
+		<Unit filename="D:/clion_projects/Lettcode_cpp/t2AddTwoNums/AddTwoNums.cpp">
 			<Option target="Lettcode_cpp"/>
 		</Unit>
 		<Unit filename="D:/clion_projects/Lettcode_cpp/CMakeLists.txt">

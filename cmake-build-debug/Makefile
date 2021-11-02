@@ -200,6 +200,30 @@ t2AddTwoNums/AddTwoNums.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t2AddTwoNums/AddTwoNums.cpp.s
 .PHONY : t2AddTwoNums/AddTwoNums.cpp.s
 
+t3LengthOfLongestSubstring/LengthOfLongestSubstring.obj: t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.obj
+.PHONY : t3LengthOfLongestSubstring/LengthOfLongestSubstring.obj
+
+# target to build an object file
+t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.obj
+.PHONY : t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.obj
+
+t3LengthOfLongestSubstring/LengthOfLongestSubstring.i: t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.i
+.PHONY : t3LengthOfLongestSubstring/LengthOfLongestSubstring.i
+
+# target to preprocess a source file
+t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.i
+.PHONY : t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.i
+
+t3LengthOfLongestSubstring/LengthOfLongestSubstring.s: t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.s
+.PHONY : t3LengthOfLongestSubstring/LengthOfLongestSubstring.s
+
+# target to generate assembly for a file
+t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lettcode_cpp.dir\build.make CMakeFiles/Lettcode_cpp.dir/t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.s
+.PHONY : t3LengthOfLongestSubstring/LengthOfLongestSubstring.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -218,6 +242,9 @@ help:
 	@echo ... t2AddTwoNums/AddTwoNums.obj
 	@echo ... t2AddTwoNums/AddTwoNums.i
 	@echo ... t2AddTwoNums/AddTwoNums.s
+	@echo ... t3LengthOfLongestSubstring/LengthOfLongestSubstring.obj
+	@echo ... t3LengthOfLongestSubstring/LengthOfLongestSubstring.i
+	@echo ... t3LengthOfLongestSubstring/LengthOfLongestSubstring.s
 .PHONY : help
 
 
